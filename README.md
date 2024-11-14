@@ -1,6 +1,6 @@
 # Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
 
-### [Demo]([https://arxiv.org/abs/](https://huggingface.co/spaces/AIDC-AI/1B-Meissonic)) | [Model](https://huggingface.co/AIDC-AI/Meissonic)
+### [Demo](https://huggingface.co/spaces/AIDC-AI/1B-Meissonic) | [Model](https://huggingface.co/AIDC-AI/Meissonic)
 The framework code of Meissonic, a NAT-based text-to-image model.
 
 <!-- [Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis](https://arxiv.org/abs/)  
