@@ -1,6 +1,6 @@
 # Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
 
-### [Paper](https://arxiv.org/abs/) | [Model]()
+### [Demo]([https://arxiv.org/abs/](https://huggingface.co/spaces/AIDC-AI/1B-Meissonic)) | [Model](https://huggingface.co/AIDC-AI/Meissonic)
 The framework code of Meissonic, a NAT-based text-to-image model.
 
 <!-- [Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis](https://arxiv.org/abs/)  
@@ -19,6 +19,15 @@ The framework code of Meissonic, a NAT-based text-to-image model.
 Meissonic is an efficient text-to-image synthesis foundation model, which can be run on consumer graphics cards with as little as 8 GB of VRAM. It is based on the non-autoregressive architecture and is designed to generate $1024 \times 1024$ high-resolution images from text descriptions. 
 
 <!-- ## Requirements -->
+
+## Architecture
+
+![Architecture](./assets/architecture.png)
+
+## Key Features
+- High-resolution image generation (up to 1024x1024)
+- Designed to run on consumer GPUs
+- Versatile applications: text-to-image, image-to-image
 
 
 ## Quick Start
